@@ -57,3 +57,5 @@ public class Game {
 	}
 
 }
+
+// Good job, but the logic is a bit hard to read with 1, 2 and 3
